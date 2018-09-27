@@ -23,9 +23,20 @@ You may notice that the first line is the the headers and the following lines ar
 
 You will see in **Section 1.1** the code in the cell below it does just that.
 
+
+------
+
+
+
+
 Now, we want to iterate through the remaining lines and add each one to a data matrix that we are creating.  To do this, we will use the same method as above to iterate (`for line in f`) and since we already read the first line, we no longer need to worry about that one.  As well, we will want to split each line at every comma & we learned about this in the intro to strings course.
 
 You will see the additional code in **Section 1.2**
+
+
+------
+
+
 
 Data is now a large list of lists that we can use later on.  
 
