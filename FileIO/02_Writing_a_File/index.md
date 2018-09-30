@@ -37,3 +37,12 @@ Steps to writing a file:
 In section 2.1 of the notebook, you can see that I write a file with 2 lines.  
 
 As well, I made the code to read and print each line of the file into a function!
+
+-----
+### 2.2 Using Pandas
+Now we have been working with the built in functions in python, but as in the preivous lecture, we can use **Pandas** to make our life easier.  
+
+We are going to follow these steps:
+1. Make our matrix into a pandas data frame
+2. Print out our data frame
+3. Save our matrix to csv using Pandas
