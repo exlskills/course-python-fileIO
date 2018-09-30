@@ -21,3 +21,19 @@ matrix = [[1,2,3],
  and we want to write it to a file called `'matrix.txt'`.
 
  We are going to need to open the file, save the data and then close the file.  Once we have done this, we can reopen the file and see the contents.
+
+
+This is done in section 2.0 of the notebook.
+
+Steps to writing a file:
+1. Open the file for in **writing** mode
+2. Write your data to the file
+3. Close the file
+
+----
+### 2.1 Writing a new line
+- It is also possible to write multiple lines and to do this, you want to use the character '\n'  
+
+In section 2.1 of the notebook, you can see that I write a file with 2 lines.  
+
+As well, I made the code to read and print each line of the file into a function!
